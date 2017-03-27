@@ -50,7 +50,7 @@ a{
     overflow: hidden;
 }
 .search_box input{
-    height: 34px;
+    height: 40px;
 }
 .search_box [class^='col-'],.down_head_box [class^='col-']{
     padding: 0;
@@ -62,7 +62,7 @@ a{
     background-color:#E9654B;
     border-color: #E9654B;
     height: 34px;
-    width: 60px;
+    width: 50px;
 }
 .up_head_box ul li{
     margin: 0 8px;
